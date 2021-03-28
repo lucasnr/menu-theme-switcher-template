@@ -4,15 +4,15 @@
     <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png" alt="Logo" width="250" height="150">
   </a>
 
-  <h3 align="center">Amazing Graph</h3>
+  <h3 align="center">Menu Theme Switcher</h3>
 
   <p align="center">
-    Landing page to create amazing graphics
+    A food menu with a theme switcher
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
+    <a href="https://github.com/lucasnr/menu-theme-switcher-template">Challenge</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
+    <a href="https://www.linkedin.com/in/lucasnascimentor/">Contact</a>
   </p>
 </p>
 
@@ -22,14 +22,19 @@
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
 
 # Challenge
-Your challenge is to build a landing page about a website that create graphics.<br><br>
-Seu desafio é criar uma página sobre um site de criação de gráficos.
+Your challenge is to build a food menu page with a theme switcher to change the page's style on-the-fly.<br><br>
+Seu desafio é criar uma página de menu de comidas com um alterador de tema que mude o estilo da página a qualquer momento.
 
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/cb82a7069f698bde3bafb4ea20316951/mockuper_(1)_(1).png" width="380" height="380">
+<center>
+<img src="https://i.imgur.com/47Jayue.jpeg" width="800" height="480">
+</center>
 
-# Techs: 
+
+# Techs:
 HTML<br>
-CSS
+CSS<br>
+JS<br>
+React or Vue or Angular
 
 # Getting start:
 1 - Use this template or download this repository with the starter code<br>
@@ -51,29 +56,21 @@ CSS
 - Sua página deve se parecer o mais próximo possível do design<br>
 - Sua página deve ser responsiva<br>
 
-
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/255f1d04baf02f7e818c6e4ec36ddddf/desktop.png" width="380" height="380">
+[Desktop](https://www.figma.com/proto/Ayb2TCPdjD5god136TScBH/Menu-Theme-Switcher-Dark?node-id=0%3A1) and [Mobile](https://www.figma.com/proto/Ayb2TCPdjD5god136TScBH/Menu-Theme-Switcher-Dark?node-id=15%3A228) prototypes are here to help you out on the Dark Mode! There is one [Desktop](https://www.figma.com/proto/4yvmQNY0TDyD6LmKeUIJtl/Menu-Theme-Switcher-Light?node-id=0%3A1) and [Mobile](https://www.figma.com/proto/4yvmQNY0TDyD6LmKeUIJtl/Menu-Theme-Switcher-Light?node-id=15%3A228) prototype for the Light Mode as well.
 
 
 Feel free to use any workflow you are comfortable with :)
 
-# Colors:
-Orange: #D2872C<br>
-Gray: #766F68
+# Colors, Assets, Fonts and Design
+Everything you will need is at the [Dark](https://www.figma.com/file/Ayb2TCPdjD5god136TScBH/Menu-Theme-Switcher-Dark) and [Light](https://www.figma.com/file/4yvmQNY0TDyD6LmKeUIJtl/Menu-Theme-Switcher-Light) Figma Projects.<br>
 
-# Design:
-Design available in `./design` path<br>
-Images available in `./assets` path<br>
+Tudo que você precisa está nos projetos [Dark](https://www.figma.com/file/Ayb2TCPdjD5god136TScBH/Menu-Theme-Switcher-Dark) e [Light](https://www.figma.com/file/4yvmQNY0TDyD6LmKeUIJtl/Menu-Theme-Switcher-Light) do Figma.
 <br>
-Modelo disponível na pasta `./design`<br>
-Imagens disponíveis na pasta `./assets`<br>
 
-# Font family:
-- Roboto
 
 # Share!
 Initialize your project with this template in your github as a public repository<br>
 Capture a screenshot, gif or video and share your result in Linkedin<br>
-Send me a feedback in  <a href="https://www.linkedin.com/in/lorenagmontes/">Linkedin</a>!<br>
+Send me a feedback in  <a href="https://www.linkedin.com/in/lucasnascimentor/">Linkedin</a>!<br>
 
-Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+Designed and created by  <a href="https://github.com/lucasnr">Lucas</a> :)
