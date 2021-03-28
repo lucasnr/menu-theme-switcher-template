@@ -1,9 +1,5 @@
 <br />
 <p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png" alt="Logo" width="250" height="150">
-  </a>
-
   <h3 align="center">Menu Theme Switcher</h3>
 
   <p align="center">
@@ -25,9 +21,9 @@
 Your challenge is to build a food menu page with a theme switcher to change the page's style on-the-fly.<br><br>
 Seu desafio é criar uma página de menu de comidas com um alterador de tema que mude o estilo da página a qualquer momento.
 
-<center>
+<p align="center">
 <img src="https://i.imgur.com/47Jayue.jpeg" width="800" height="480">
-</center>
+</p>
 
 
 # Techs:
